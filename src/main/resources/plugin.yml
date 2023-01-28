@@ -1,0 +1,7 @@
+name: KinematicChainPlugin
+version: '${project.version}'
+main: com.heledron.minecraft.kinematic_chain.KinematicChainPlugin
+api-version: 1.19
+commands:
+  sculkTendril:
+    usage: /sculkTendril reset
